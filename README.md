@@ -5,3 +5,5 @@ alasan kenapa ping gagal pada pc A dan B karena PC A dan B berada di network id 
 <br> dan ini adalah ping yang berhasil setelah router dikonfigurasi :
 <img width="394" height="187" alt="ping berhasil" src="https://github.com/user-attachments/assets/4b7d8e85-628d-4765-ad39-9e0365f41daa" />
 
+Praktikum judul 3 : https://youtu.be/2osG5g3eyjg
+
